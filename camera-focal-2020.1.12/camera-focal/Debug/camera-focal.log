@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  camera-focal.cpp
+  camera-focalDlg.cpp
+d:\段仕鹏\无\上山\202101上山\软件\上山材料-潘智\camera-focal-2020.1.12\camera-focal\camera-focaldlg.cpp(459): warning C4101: “steps”: 未引用的局部变量
+  mscomm1.cpp
+  正在生成代码...
+  camera-focal.vcxproj -> D:\段仕鹏\无\上山\202101上山\软件\上山材料-潘智\camera-focal-2020.1.12\Debug\camera-focal.exe
